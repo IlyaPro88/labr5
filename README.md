@@ -10,6 +10,8 @@
         Кнопка «Удалить» удаляет файл с устройства.
 ![Снимок экрана 2024-12-16 124637](https://github.com/user-attachments/assets/fb07c9b5-c112-42d9-a624-cc6da3645806)
 
+![image](https://github.com/user-attachments/assets/b8533dfc-67bd-42e0-9252-e3a599aa54f1)
+
 Вывод
 
 Разработанное приложение успешно реализует:
